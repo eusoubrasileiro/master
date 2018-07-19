@@ -1,3 +1,1 @@
-# mter
-master instructions trial 
-mter
+Master Classes Geophysics - National Observatory
