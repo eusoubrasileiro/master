@@ -1,7 +1,6 @@
 Geophysics - National Observatory
 
-Modelagem numérica de ondas sismicas - Prof. PhD LEANDRO DI BARTOLO 
-http://www.on.br/dppg/geofisica/ementa/MODELAGEM_NUMERICA_DE_ONDAS_SISMICAS_rev.pdf
+[Modelagem numérica de ondas sismicas](http://www.on.br/dppg/geofisica/ementa/MODELAGEM_NUMERICA_DE_ONDAS_SISMICAS_rev.pdf) - Prof. PhD LEANDRO DI BARTOLO 
 
 [Explicit Finite Differences Heat Difusion 1D](http://nbviewer.jupyter.org/github/eusoubrasileiro/master/blob/master/Heat%20Diffusion%201D.ipynb)
 
